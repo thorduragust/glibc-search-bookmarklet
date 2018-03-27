@@ -1,5 +1,5 @@
 # glibc-search-bookmarklet
-Very simple bookmarklet that searches glibc online documentation for a given input string. It uses duckduckgo site: feature because google wouldn't give any usable results. 
+Very simple bookmarklet that searches glibc online documentation for a given input string. It uses duckduckgo because google wouldn't give any usable results. 
 
 Add this code to your bookmark url when creating a new bookmark:
 
